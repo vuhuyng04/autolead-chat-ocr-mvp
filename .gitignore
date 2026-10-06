@@ -1,0 +1,11 @@
+# Môi trường, model và công cụ tải về (dựng lại bằng run.bat, download_models.py, setup_llama.py)
+.venv/
+models/
+tools/
+logs/
+__pycache__/
+*.pyc
+.env
+# Video cũ (PyTorch); chỉ giữ bản llama.cpp
+videos/demo-s5_zalo_doi_mau_sdt.mp4
+results/_*.png

@@ -1,0 +1,97 @@
+{
+ "id": "s6_messenger_lai_thu",
+ "platform": "messenger",
+ "bubbles": [
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Chị Ngọc lái thử VF 3 hôm qua thấy thế nào ạ?",
+   "box": [
+    268,
+    754,
+    706,
+    844
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Hôm qua chị lái thử thấy xe nhỏ gọn, dễ đi phố",
+   "box": [
+    52,
+    860,
+    507,
+    950
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Nhưng chị vẫn băn khoăn cốp hơi bé",
+   "box": [
+    52,
+    954,
+    507,
+    1010
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ chị có muốn tham khảo thêm VF 5 không ạ?",
+   "box": [
+    242,
+    1026,
+    706,
+    1116
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Ừ em gửi chị xem thử",
+   "box": [
+    52,
+    1132,
+    329,
+    1188
+   ]
+  }
+ ],
+ "transcript": [
+  {
+   "speaker": "TVV",
+   "text": "Chị Ngọc lái thử VF 3 hôm qua thấy thế nào ạ?"
+  },
+  {
+   "speaker": "KH",
+   "text": "Hôm qua chị lái thử thấy xe nhỏ gọn, dễ đi phố"
+  },
+  {
+   "speaker": "KH",
+   "text": "Nhưng chị vẫn băn khoăn cốp hơi bé"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ chị có muốn tham khảo thêm VF 5 không ạ?"
+  },
+  {
+   "speaker": "KH",
+   "text": "Ừ em gửi chị xem thử"
+  }
+ ],
+ "expect": {
+  "models": [
+   "VF 3",
+   "VF 5"
+  ],
+  "dropped_models": [],
+  "finance": "unknown",
+  "co_decider": "unknown",
+  "expected_days": null,
+  "events": [
+   "test_drive"
+  ],
+  "colors": []
+ }
+}

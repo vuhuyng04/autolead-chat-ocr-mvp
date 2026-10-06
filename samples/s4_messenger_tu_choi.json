@@ -1,0 +1,96 @@
+{
+ "id": "s4_messenger_tu_choi",
+ "platform": "messenger",
+ "bubbles": [
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Chị Hà ơi, bên em đang có ưu đãi VF 6 tháng này ạ",
+   "box": [
+    236,
+    708,
+    706,
+    798
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Thôi em ơi, nhà chị chưa có nhu cầu nữa",
+   "box": [
+    52,
+    814,
+    497,
+    904
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ chị có muốn em giữ thông tin mẫu VF 6 không ạ?",
+   "box": [
+    239,
+    920,
+    706,
+    1010
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Không cần đâu em, chị không quan tâm VF 6 nữa",
+   "box": [
+    52,
+    1026,
+    490,
+    1116
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ vâng, khi nào cần chị nhắn em nhé",
+   "box": [
+    238,
+    1132,
+    706,
+    1188
+   ]
+  }
+ ],
+ "transcript": [
+  {
+   "speaker": "TVV",
+   "text": "Chị Hà ơi, bên em đang có ưu đãi VF 6 tháng này ạ"
+  },
+  {
+   "speaker": "KH",
+   "text": "Thôi em ơi, nhà chị chưa có nhu cầu nữa"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ chị có muốn em giữ thông tin mẫu VF 6 không ạ?"
+  },
+  {
+   "speaker": "KH",
+   "text": "Không cần đâu em, chị không quan tâm VF 6 nữa"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ vâng, khi nào cần chị nhắn em nhé"
+  }
+ ],
+ "expect": {
+  "models": [],
+  "dropped_models": [
+   "VF 6"
+  ],
+  "finance": "unknown",
+  "co_decider": "unknown",
+  "expected_days": null,
+  "events": [
+   "contact:rejected"
+  ],
+  "colors": []
+ }
+}

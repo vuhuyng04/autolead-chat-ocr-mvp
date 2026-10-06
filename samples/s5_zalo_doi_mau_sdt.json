@@ -1,0 +1,124 @@
+{
+ "id": "s5_zalo_doi_mau_sdt",
+ "platform": "zalo",
+ "bubbles": [
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Em ơi anh đổi ý, chuyển từ VF 6 sang VF 7 nhé",
+   "box": [
+    64,
+    408,
+    518,
+    520
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ được anh, VF 7 đang có sẵn màu trắng và màu đỏ ạ",
+   "box": [
+    263,
+    538,
+    706,
+    650
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "voice",
+   "text": "0:15",
+   "box": [
+    64,
+    668,
+    334,
+    728
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Anh lấy màu trắng. Vợ anh đã đi xem xe cùng anh hôm trước rồi",
+   "box": [
+    64,
+    734,
+    520,
+    824
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Số mới của anh 0912 345 678 nhé",
+   "box": [
+    64,
+    830,
+    485,
+    908
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "sticker",
+   "text": "",
+   "box": [
+    576,
+    926,
+    706,
+    1056
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Tháng sau anh nhận thưởng thì làm thủ tục trả góp",
+   "box": [
+    64,
+    1074,
+    506,
+    1186
+   ]
+  }
+ ],
+ "transcript": [
+  {
+   "speaker": "KH",
+   "text": "Em ơi anh đổi ý, chuyển từ VF 6 sang VF 7 nhé"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ được anh, VF 7 đang có sẵn màu trắng và màu đỏ ạ"
+  },
+  {
+   "speaker": "KH",
+   "text": "[tin nhắn thoại 0:15]"
+  },
+  {
+   "speaker": "KH",
+   "text": "Anh lấy màu trắng. Vợ anh đã đi xem xe cùng anh hôm trước rồi"
+  },
+  {
+   "speaker": "KH",
+   "text": "Số mới của anh 0912 345 678 nhé"
+  },
+  {
+   "speaker": "KH",
+   "text": "Tháng sau anh nhận thưởng thì làm thủ tục trả góp"
+  }
+ ],
+ "expect": {
+  "models": [
+   "VF 7"
+  ],
+  "dropped_models": [
+   "VF 6"
+  ],
+  "finance": "enough_with_loan",
+  "co_decider": "yes_involved",
+  "expected_days": 30,
+  "events": [],
+  "colors": [
+   "Trắng"
+  ]
+ }
+}

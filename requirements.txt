@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers==4.46.3
+timm
+einops
+accelerate
+gradio>=5
+opencv-python-headless
+numpy
+pillow
+openai
+python-dotenv
+huggingface_hub
+playwright  # chỉ cho record_demo.py

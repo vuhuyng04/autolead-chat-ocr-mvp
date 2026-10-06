@@ -1,0 +1,171 @@
+{
+ "id": "s1_zalo_vf7_vay",
+ "platform": "zalo",
+ "bubbles": [
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Em ơi chị hỏi chút về VF 7 nhé",
+   "box": [
+    64,
+    176,
+    442,
+    254
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ em chào chị Lan ạ. Chị đang quan tâm bản Eco hay bản Plus ạ?",
+   "box": [
+    251,
+    272,
+    706,
+    384
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Chị thích bản Plus, màu xám",
+   "box": [
+    64,
+    402,
+    418,
+    480
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ chị tính khoảng bao giờ lấy xe ạ?",
+   "box": [
+    260,
+    498,
+    706,
+    576
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Chắc tầm 3 tháng nữa em",
+   "box": [
+    64,
+    594,
+    391,
+    672
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Về tài chính mình có cần hỗ trợ vay không chị?",
+   "box": [
+    270,
+    690,
+    706,
+    802
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Có em, chị muốn vay khoảng 70%",
+   "box": [
+    64,
+    820,
+    484,
+    876
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Để chị bàn thêm với chồng đã",
+   "box": [
+    64,
+    882,
+    440,
+    960
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ vâng, cuối tuần anh chị qua showroom lái thử nhé",
+   "box": [
+    321,
+    978,
+    706,
+    1090
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Ok em, thứ 7 chị qua",
+   "box": [
+    64,
+    1108,
+    335,
+    1186
+   ]
+  }
+ ],
+ "transcript": [
+  {
+   "speaker": "KH",
+   "text": "Em ơi chị hỏi chút về VF 7 nhé"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ em chào chị Lan ạ. Chị đang quan tâm bản Eco hay bản Plus ạ?"
+  },
+  {
+   "speaker": "KH",
+   "text": "Chị thích bản Plus, màu xám"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ chị tính khoảng bao giờ lấy xe ạ?"
+  },
+  {
+   "speaker": "KH",
+   "text": "Chắc tầm 3 tháng nữa em"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Về tài chính mình có cần hỗ trợ vay không chị?"
+  },
+  {
+   "speaker": "KH",
+   "text": "Có em, chị muốn vay khoảng 70%"
+  },
+  {
+   "speaker": "KH",
+   "text": "Để chị bàn thêm với chồng đã"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ vâng, cuối tuần anh chị qua showroom lái thử nhé"
+  },
+  {
+   "speaker": "KH",
+   "text": "Ok em, thứ 7 chị qua"
+  }
+ ],
+ "expect": {
+  "models": [
+   "VF 7"
+  ],
+  "dropped_models": [],
+  "finance": "enough_with_loan",
+  "co_decider": "yes_not_involved",
+  "expected_days": 90,
+  "events": [],
+  "colors": [
+   "Xám"
+  ]
+ }
+}

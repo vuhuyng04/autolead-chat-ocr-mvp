@@ -1,0 +1,124 @@
+{
+ "id": "s3_zalo_teencode_vf5",
+ "platform": "zalo",
+ "bubbles": [
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "a ơi vf5 lăn bánh hn bn vậy a",
+   "box": [
+    64,
+    532,
+    424,
+    610
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ VF 5 lăn bánh Hà Nội khoảng 5xx triệu anh ạ, em gửi bảng giá chi tiết nhé",
+   "box": [
+    257,
+    628,
+    706,
+    774
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "ok a. e chưa đủ tiền, đang gom thêm",
+   "box": [
+    64,
+    792,
+    518,
+    848
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "chắc cuối năm mới mua dc",
+   "box": [
+    64,
+    854,
+    402,
+    932
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ anh có lo gì về xe điện không ạ?",
+   "box": [
+    268,
+    950,
+    706,
+    1028
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "e sợ sạc ở chung cư khó",
+   "box": [
+    64,
+    1046,
+    373,
+    1102
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "để e hỏi bố mẹ đã",
+   "box": [
+    64,
+    1108,
+    304,
+    1186
+   ]
+  }
+ ],
+ "transcript": [
+  {
+   "speaker": "KH",
+   "text": "a ơi vf5 lăn bánh hn bn vậy a"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ VF 5 lăn bánh Hà Nội khoảng 5xx triệu anh ạ, em gửi bảng giá chi tiết nhé"
+  },
+  {
+   "speaker": "KH",
+   "text": "ok a. e chưa đủ tiền, đang gom thêm"
+  },
+  {
+   "speaker": "KH",
+   "text": "chắc cuối năm mới mua dc"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ anh có lo gì về xe điện không ạ?"
+  },
+  {
+   "speaker": "KH",
+   "text": "e sợ sạc ở chung cư khó"
+  },
+  {
+   "speaker": "KH",
+   "text": "để e hỏi bố mẹ đã"
+  }
+ ],
+ "expect": {
+  "models": [
+   "VF 5"
+  ],
+  "dropped_models": [],
+  "finance": "insufficient",
+  "co_decider": "yes_not_involved",
+  "expected_days": null,
+  "events": [],
+  "colors": []
+ }
+}

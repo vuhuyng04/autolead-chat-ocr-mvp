@@ -1,0 +1,145 @@
+{
+ "id": "s2_messenger_vf8_coc",
+ "platform": "messenger",
+ "bubbles": [
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Shop cho mình hỏi VF 8 với VF 9 khác nhau nhiều không",
+   "box": [
+    52,
+    482,
+    515,
+    572
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ VF 9 rộng hơn, có 7 chỗ ạ. Nhà mình đi mấy người anh?",
+   "box": [
+    282,
+    588,
+    706,
+    678
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "4 người thôi, VF 8 là đủ rồi",
+   "box": [
+    52,
+    694,
+    387,
+    750
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Mình trả thẳng, không vay",
+   "box": [
+    52,
+    754,
+    386,
+    810
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ anh tự quyết hay cần hỏi ý gia đình ạ?",
+   "box": [
+    232,
+    826,
+    706,
+    916
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Mình tự quyết",
+   "box": [
+    52,
+    932,
+    247,
+    988
+   ]
+  },
+  {
+   "speaker": "KH",
+   "kind": "text",
+   "text": "Chiều nay mình chuyển cọc VF 8 màu đen nhé",
+   "box": [
+    52,
+    992,
+    514,
+    1082
+   ]
+  },
+  {
+   "speaker": "TVV",
+   "kind": "text",
+   "text": "Dạ em đã nhận được tiền cọc 20 triệu rồi ạ, em cảm ơn anh",
+   "box": [
+    243,
+    1098,
+    706,
+    1188
+   ]
+  }
+ ],
+ "transcript": [
+  {
+   "speaker": "KH",
+   "text": "Shop cho mình hỏi VF 8 với VF 9 khác nhau nhiều không"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ VF 9 rộng hơn, có 7 chỗ ạ. Nhà mình đi mấy người anh?"
+  },
+  {
+   "speaker": "KH",
+   "text": "4 người thôi, VF 8 là đủ rồi"
+  },
+  {
+   "speaker": "KH",
+   "text": "Mình trả thẳng, không vay"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ anh tự quyết hay cần hỏi ý gia đình ạ?"
+  },
+  {
+   "speaker": "KH",
+   "text": "Mình tự quyết"
+  },
+  {
+   "speaker": "KH",
+   "text": "Chiều nay mình chuyển cọc VF 8 màu đen nhé"
+  },
+  {
+   "speaker": "TVV",
+   "text": "Dạ em đã nhận được tiền cọc 20 triệu rồi ạ, em cảm ơn anh"
+  }
+ ],
+ "expect": {
+  "models": [
+   "VF 8"
+  ],
+  "dropped_models": [
+   "VF 9"
+  ],
+  "finance": "enough_cash",
+  "co_decider": "self",
+  "expected_days": null,
+  "events": [
+   "deposit"
+  ],
+  "colors": [
+   "Đen"
+  ]
+ }
+}
